@@ -15,5 +15,5 @@ https://www.ircad.fr/research/data-sets/
 Example of segmented structures in the dataset (red - arteries, green - venous system, blue - portal vein):
 ![image](https://github.com/romova/Liver-vascular-segmentation/assets/93135199/f2efd97c-1710-47eb-85f5-1b4ae4b86c39)
 
-Results of models acording to dice coefficient (blue - True positive, purple - False positive, yellow - places where model prediction is better than original segmentation):
+Results of models acording to dice coefficient (blue - True positive, purple - False positive) - in some places model prediction is better than original segmentation):
 ![image](https://github.com/romova/Liver-vascular-segmentation/assets/93135199/427af1a7-8211-4162-b03a-73fd3536d710)
