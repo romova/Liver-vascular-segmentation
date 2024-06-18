@@ -1,6 +1,6 @@
 # Vascular segmentation in the liver
 
-Usind 3DIrcad dataset to segment vascular structures inside and around the liver with U-Net neural network using keras and tensorflow libraries in python.
+Usind 3DIrcad dataset to segment vascular structures inside and around the liver with U-Net neural network using: keras, tensorflow, io3d and scikit-learn libraries in python.
 1. Downland dataset using file downland_dircad.ipynb
 2. Downland zip files: experiment1.zip for small U-Net arcitecture,
                        experiment2.zip for medium U-Net arcitecture,
